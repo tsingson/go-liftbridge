@@ -111,6 +111,7 @@ github.com/liftbridge-io/go-liftbridge v0.0.0-20190703015712-9f8cb1ad3118/go.mod
 github.com/liftbridge-io/go-liftbridge v0.0.0-20190829224842-741ea51bbb75/go.mod h1:zYMcGL2bhQOjPqiL/fD1kkGH1oqeBs4hDZ/+K9JeNh8=
 github.com/liftbridge-io/go-liftbridge v0.0.0-20190831233708-6fbf530bb220/go.mod h1:nrRKe84l5pTHsFjq0UQRyrjTXz35ImgLDhCjS66RkMA=
 github.com/liftbridge-io/go-liftbridge v0.0.0-20191106171334-84163faf9fdd/go.mod h1:Q1PGCu9GUniz/0iHucxMwg2tiHwqhg8JrmIFOaPD88s=
+github.com/liftbridge-io/go-liftbridge v0.0.0-20191106180712-4f7e4b9d8611 h1:VB8/4FRlmEaZ1toJC854gS+klexnEpFVghHAUN227Tk=
 github.com/liftbridge-io/go-liftbridge v0.0.0-20191106180712-4f7e4b9d8611/go.mod h1:E+5gzmn2VHTfwQ21r0bujaQrUe5o1UtHzCAr+Xpo47A=
 github.com/liftbridge-io/liftbridge v0.0.0-20190628061900-5f565727d49f/go.mod h1:DgUnOkzaVLgIOQ3W7ztMm0+xQmDaEM+tcgGCAdlZj8s=
 github.com/liftbridge-io/liftbridge v0.0.0-20190704001405-928a9d17c609/go.mod h1:d9iQ/6VLp7paFMnNukU2nV1PnNjkz2vpNQzYS4zIy8Y=
